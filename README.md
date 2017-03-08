@@ -13,7 +13,7 @@ ${ANITA_UTIL_INSTALL_DIR}/share/anitaCalib
 
 Get the latest release of the [anitaEventCorrelator library](https://github.com/anitaNeutrino/anitaEventCorrelator) and run the script
 ```bash
-downloadBEDMAP2subset.sh.
+downloadBEDMAP2subset.sh
 ```
 
 ## Manual install ##
